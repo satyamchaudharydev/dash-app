@@ -1,0 +1,13 @@
+.school_overview__filter_section {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 30px;
+}
+.flexContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.flex {
+  flex: 1;
+}
